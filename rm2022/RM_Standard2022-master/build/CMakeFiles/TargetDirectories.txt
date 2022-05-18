@@ -1,0 +1,3 @@
+/home/yq/桌面/rm2022/RM_Standard2022-master/build/CMakeFiles/rebuild_cache.dir
+/home/yq/桌面/rm2022/RM_Standard2022-master/build/CMakeFiles/edit_cache.dir
+/home/yq/桌面/rm2022/RM_Standard2022-master/build/CMakeFiles/RM_Standard2022.dir
